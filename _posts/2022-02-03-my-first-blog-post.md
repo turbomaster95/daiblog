@@ -5,3 +5,4 @@ date: 2022-02-03
 
 # Blog post
 
+The **Log4j Vulnerablity** 
